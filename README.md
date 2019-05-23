@@ -6,6 +6,12 @@
 
 ## 行文混乱及情绪负面预警！！！！！！
 
+## 虽然感觉姿势不太对
+
+wdssmq/dont-say-zai-ma：不要问在不在！！
+
+https://github.com/wdssmq/dont-say-zai-ma
+
 ## 大概这里是重点（前的废话）
 
 下边的附言反而是先写就的，还略自大的用了“本指南”，所以好像应该切实给出一些操作建议什么的，可是“不要问在不在”不管从情绪还是啥的不应该已经很明确了吧，明确了吧，确了吧，了吧，吧！？
@@ -19,6 +25,7 @@
 > 在不在/在吗
 
 > 在吗
+>
 > 有事请教
 
 然而没有然后时。。。。。
@@ -41,5 +48,7 @@
 
 ## 相关：
 > ryanhanwu/How-To-Ask-Questions-The-Smart-Way:
+>
 > 提问的智慧：
+>
 > https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
